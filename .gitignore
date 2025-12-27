@@ -1,4 +1,4 @@
-# Ignorar arquivos sensíveis e temporários dentro do docker/app
+# Ignorar arquivos sensíveis e temporários dentro de /app
 app/node_modules
 app/dist
 app/*.logs
